@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dar4datascience
-- 👀 See my personal website @ [dar4datascience.com](dar4datascience.com)
-- 🌱 Check out some of my projects @ [dar4datascience.netlify.app](dar4datascience.netlify.app)
+- 👀 See my personal website @ BETA [dar4datascience.com](dar4datascience.com)
+- 🌱 Check out some of my projects @ BETA [dar4datascience.netlify.app](dar4datascience.netlify.app)
 - 📫 R, Python, intersection of AI and ethics, and technology
 
 <!---
