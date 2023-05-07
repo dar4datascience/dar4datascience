@@ -18,6 +18,11 @@ I use these:
   <a href="https://github.com/business-science/modeltime"><img src="https://raw.githubusercontent.com/business-science/modeltime/master/man/figures/logo.png" width="50px"/></a>
 </p>
 
+## GitHub Stats
+ 
+![dar4datascience](https://github-readme-stats.vercel.app/api?username=dar4datascience&show_icons=true&theme=onedark)
+
+
 <!---
 dar4datascience/dar4datascience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
