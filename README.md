@@ -2,11 +2,9 @@
 
 # 👋 Hey there! I'm Daniel Amieva Rodriguez
 
-### � Senior Data Engineer | AWS Specialist | AI/ML Enthusiast
+### 🚀 Senior Data Engineer | AWS Specialist | AI/ML Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daniel-amieva-rodriguez)
-[![GitHub followers](https://img.shields.io/github/followers/dar4datascience?style=for-the-badge&logo=github)](https://github.com/dar4datascience)
-[![Profile Views](https://komarev.com/ghpvc/?username=dar4datascience&style=for-the-badge&color=brightgreen)](https://github.com/dar4datascience)
+![Snake animation](https://raw.githubusercontent.com/dar4datascience/dar4datascience/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -176,8 +174,6 @@ exploring:
 <div align="center">
 
 ### 💭 "Data is the new oil, but only if you refine it properly"
-
-![Snake animation](https://raw.githubusercontent.com/dar4datascience/dar4datascience/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
